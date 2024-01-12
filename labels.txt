@@ -1,0 +1,3 @@
+0 Red plants
+1 Green Plants
+2 Others
